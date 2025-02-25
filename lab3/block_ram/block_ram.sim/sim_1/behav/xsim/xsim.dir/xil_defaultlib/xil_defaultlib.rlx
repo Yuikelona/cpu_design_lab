@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+F:/vivado_project/lab/lab3/block_ram/block_ram.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+F:/vivado_project/lab/lab3/block_ram/block_ram.srcs/sources_1/ip/block_ram/sim/block_ram.v,1740406874,verilog,,F:/vivado_project/lab/lab3/source_code/block_ram_top.v,,block_ram,,,,,,,,
+F:/vivado_project/lab/lab3/source_code/block_ram_top.v,1730429372,verilog,,F:/vivado_project/lab/lab3/source_code/ram_tb.v,,ram_top,,,,,,,,
+F:/vivado_project/lab/lab3/source_code/ram_tb.v,1730429372,verilog,,,,tb_top,,,,,,,,

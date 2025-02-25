@@ -1,0 +1,14 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+F:/vivado_project/lab/lab5/minicpu_env/miniCPU/minicpu_top.v,1740477151,verilog,,F:/vivado_project/lab/lab5/minicpu_env/miniCPU/regfile.v,,minicpu_top,,,../../../../../minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll,,,,,
+F:/vivado_project/lab/lab5/minicpu_env/miniCPU/regfile.v,1730429372,verilog,,F:/vivado_project/lab/lab5/minicpu_env/soc_verify/rtl/soc_mini_top.v,,regfile,,,../../../../../minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll,,,,,
+F:/vivado_project/lab/lab5/minicpu_env/miniCPU/tools.v,1730429372,verilog,,F:/vivado_project/lab/lab5/minicpu_env/soc_verify/testbench/mycpu_tb.v,,decoder_2_4;decoder_4_16;decoder_5_32;decoder_6_64,,,../../../../../minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll,,,,,
+F:/vivado_project/lab/lab5/minicpu_env/soc_verify/rtl/CONFREG/confreg.v,1730429372,verilog,,F:/vivado_project/lab/lab5/minicpu_env/miniCPU/minicpu_top.v,,confreg,,,../../../../../minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll,,,,,
+F:/vivado_project/lab/lab5/minicpu_env/soc_verify/rtl/soc_mini_top.v,1730429372,verilog,,F:/vivado_project/lab/lab5/minicpu_env/miniCPU/tools.v,,soc_mini_top,,,../../../../../minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll,,,,,
+F:/vivado_project/lab/lab5/minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll/clk_pll.v,1740063624,verilog,,F:/vivado_project/lab/lab5/minicpu_env/soc_verify/rtl/xilinx_ip/inst_ram/sim/inst_ram.v,,clk_pll,,,../../../../../minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll,,,,,
+F:/vivado_project/lab/lab5/minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll/clk_pll_clk_wiz.v,1740063624,verilog,,F:/vivado_project/lab/lab5/minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll/clk_pll.v,,clk_pll_clk_wiz,,,../../../../../minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll,,,,,
+F:/vivado_project/lab/lab5/minicpu_env/soc_verify/rtl/xilinx_ip/inst_ram/sim/inst_ram.v,1740063627,verilog,,F:/vivado_project/lab/lab5/minicpu_env/soc_verify/rtl/CONFREG/confreg.v,,inst_ram,,,../../../../../minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll,,,,,
+F:/vivado_project/lab/lab5/minicpu_env/soc_verify/testbench/mycpu_tb.v,1740477401,verilog,,,,tb_top,,,../../../../../minicpu_env/soc_verify/rtl/xilinx_ip/clk_pll,,,,,
+F:/vivado_project/lab/lab5/project/loongson.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,

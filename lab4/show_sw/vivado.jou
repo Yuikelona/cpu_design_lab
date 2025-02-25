@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Feb 24 22:27:15 2025
+# Process ID: 16872
+# Current directory: F:/vivado_project/lab/lab4/show_sw
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16976 F:\vivado_project\lab\lab4\show_sw\show_sw.xpr
+# Log file: F:/vivado_project/lab/lab4/show_sw/vivado.log
+# Journal file: F:/vivado_project/lab/lab4/show_sw\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/vivado_project/lab/lab4/show_sw/show_sw.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source tb.tcl
+current_wave_config {Untitled 1}
+add_wave {{/tb/u_show_sw/num_a_g}} 
+current_wave_config {Untitled 1}
+add_wave {{/tb/u_show_sw/led}} 
+run all
+relaunch_sim
+run all
+close_sim
