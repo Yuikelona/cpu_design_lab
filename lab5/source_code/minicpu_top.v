@@ -128,7 +128,7 @@ regfile u_regfile(
     .wdata  (rf_wdata )
     );//在空出的括号里完成引脚匹配
 
-assign br_offs   = i16 << 2;//在这里完成br_offs信号的生成
+assign br_offs   = {{14{i16[15]}}, i16, 2'h0};//在这里完成br_offs信号的生成
 assign br_target = pc + br_offs;
 assign rj_eq_rd  = (rj_value == rkd_value);
 assign br_taken  = valid && inst_bne  && !rj_eq_rd;
